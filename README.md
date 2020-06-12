@@ -68,6 +68,9 @@ Six seconds is an eternity so you've been tasked with speeding up the code. Can 
 
 (Hint: You might try importing a data structure you built during the week)
 
+# 1st runtime: 8.810919761657715 seconds
+# 2nd runtime: 0.14019536972045898 seconds
+
 
 #### Task 3. Reverse a Linked List
 
